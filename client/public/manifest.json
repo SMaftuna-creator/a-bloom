@@ -1,0 +1,25 @@
+{
+  "short_name": "bloom",
+  "name": "bloom | ICT4Girls",
+  "icons": [
+    {
+      "src": "bloomicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "bloom256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "bloom512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#47a76a",
+  "background_color": "#47a76a"
+}
