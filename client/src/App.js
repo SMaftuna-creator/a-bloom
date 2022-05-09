@@ -29,7 +29,7 @@ const App = () => {
       } catch (err) {
         dispatch(notify(getErrorMsg(err), 'error'));
       }
-    };
+    }; 
 
     dispatch(setUser());
     dispatch(setDarkMode());

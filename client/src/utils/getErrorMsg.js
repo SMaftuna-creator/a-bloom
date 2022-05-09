@@ -7,5 +7,5 @@ const getErrorMsg = (err) => {
     return 'Something went wrong.';
   }
 };
-
+ 
 export default getErrorMsg;
