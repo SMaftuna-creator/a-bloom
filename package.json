@@ -1,17 +1,13 @@
 {
   "name": "bloom_app",
   "version": "0.1.0",
-  "homepage": "https://SMaftuna-creator.github.io/a-bloom",
+  "homepage": "https://SMaftuna-creator.github.io/bloom",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.16.4",
-    "@testing-library/react": "^13.1.1",
-    "@testing-library/user-event": "^14.1.1",
     "heroku-client": "^3.1.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -40,6 +36,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3" 
+    "gh-pages": "^3.2.3"
   }
 }
